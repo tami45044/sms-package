@@ -1,0 +1,19 @@
+{
+    "name": "rlgroups/Smsrl",
+    "description": "this is send sms message from rl project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tami S",
+            "email": "tamar.sh@rami-levy.co.il"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+        "autoload": {
+        "psr-4": {
+            "rlgroups\\Smsrl\\": "src/"
+        }
+    }
+}
