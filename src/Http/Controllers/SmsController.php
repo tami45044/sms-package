@@ -1,6 +1,6 @@
 <?php
 
-namespace rlgroups\Smsrl\Http\Controllers;
+namespace tamirlgroup\smsrl\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
