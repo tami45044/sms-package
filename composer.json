@@ -1,5 +1,5 @@
 {
-    "name": "rlgroups/smsrl",
+    "name": "rlgroup/smsrl",
     "description": "this is send sms message from rl project",
     "type": "library",
     "license": "MIT",
