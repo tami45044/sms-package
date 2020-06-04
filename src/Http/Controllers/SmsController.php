@@ -4,8 +4,8 @@ namespace rlgroups\Smsrl\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use rlgroups\Smsrl\Models\Sms;
-use rlgroups\Smsrl\Mail\SmsMailable;
+use tamirlgroup\smsrl\Models\Sms;
+use tamirlgroup\smsrl\Mail\SmsMailable;
 use Mail;
 //use Illuminate\Support\Facedes\Mail;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace rlgroups\Smsrl\Mail;
+namespace tamirlgroup\smsrl\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

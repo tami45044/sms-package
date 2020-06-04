@@ -1,6 +1,6 @@
 <?php
 
-namespace rlgroups\Smsrl\Models;
+namespace tamirlgroup\smsrl\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

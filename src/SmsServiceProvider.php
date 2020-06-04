@@ -1,6 +1,6 @@
 <?php
 
-namespace rlgroups\Smsrl;
+namespace tamirlgroup\smsrl;
 
 use Illuminate\Support\ServiceProvider;
 
